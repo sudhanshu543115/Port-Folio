@@ -205,10 +205,10 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Mern Stack Web Devloper (Internship)",
-      company: "WebTech",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "Oct 2024 – Jan 2025",
+      role: "Project Engineer ",
+      company: "Academic Role",
+      companylogo: require(""),
+      date: "jan 2024 – Jan 2025",
       desc: "Contributed to the development of a full-stack web application using the MERN stack, collaborating with a team of developers to implement new features and resolve bugs.",
 
       descBullets: [
@@ -257,7 +257,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://filmflixnow.vercel.app/"
+          url: "https://filmflixnow-liard.vercel.app/"
         }
         //  you can add extra buttons here.
       ]
