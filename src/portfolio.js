@@ -289,8 +289,8 @@ const achievementSection = {
     {
       title: "  Data Structures (BCS301) by CodeChef, Dec 2024",
       subtitle:
-        "",
-      image: require(""),
+        " data structure",
+      image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
